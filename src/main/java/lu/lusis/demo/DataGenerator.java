@@ -64,7 +64,6 @@ public class DataGenerator {
             positionRepository.save(new Position("Position 13",6.65007330767778,49.60996909775758));
             positionRepository.save(new Position("Position 14",6.808007330767778,49.60996909775758));
 
-
             positionRepository.save(new Position("A Position 1",6.138007330767778,49.60996909775758));
             positionRepository.save(new Position("A Position 2",6.1386081455871135,49.587828424497694));
             positionRepository.save(new Position("A Position 3",6.167183927672795,49.55142846806457));
@@ -79,11 +78,6 @@ public class DataGenerator {
             positionRepository.save(new Position("A Position 12",6.588007330767778,50.50996909775758));
             positionRepository.save(new Position("A Position 13",6.65007330767778,50.60996909775758));
             positionRepository.save(new Position("A Position 14",6.808007330767778,50.70996909775758));
-
-
-
-
-
         }
 
     }
